@@ -2,7 +2,7 @@
 A simple demo app like Trello using Angular2
 
 ## Setup
-1. `git clone https://github.com/jumpbytehq/angular2-trello.git`
+1. `git clone https://github.com/aperepjolkin/angular2-trello.git`
 2. `npm install`
 
 ## Directions to use
